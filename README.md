@@ -88,12 +88,5 @@ This confirms successful convergence of the neural network.
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-
-
-## 📂 Project Structure
 
